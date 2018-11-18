@@ -76,6 +76,12 @@
       opacity: 0.4;
 	  
     }
+	/* preview image */
+	.previewbox{
+      background-image: url(images/puzzle.jpg);
+	  margin-top: -34%;
+	  margin-right: -65%;
+	}
     .tile {
       width: 199px;
       height: 199px;
